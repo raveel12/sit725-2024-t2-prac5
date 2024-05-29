@@ -1,0 +1,25 @@
+{
+  "name": "sit725-2024-t2-prac4",
+  "version": "1.0.0",
+  "description": "practical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raveel12/sit725-2024-t2-prac3.git"
+  },
+  "author": "Raveel Kashif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raveel12/sit725-2024-t2-prac3/issues"
+  },
+  "homepage": "https://github.com/raveel12/sit725-2024-t2-prac3#readme",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0",
+    "save": "2.9.0"
+  }
+}
